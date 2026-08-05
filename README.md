@@ -78,11 +78,11 @@ Evidencia del trabajo colaborativo mediante Git y GitHub.
 
 ###### 
 
-* ###### Referencias.txt
+* ###### Reflexion.md
+
+Conclusiones
 
 
-
-Fuentes de información. 
 
 
 
