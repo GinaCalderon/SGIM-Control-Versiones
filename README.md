@@ -6,7 +6,7 @@
 
 
 
-Este repositorio contiene la documentación de una propuesta para desarrollar un Sistema de Gestión de Inventario y Recepción de MAERCADERÍA (SGIM), cuyo propósito es optimizar el control de los productos, mejorar el registro de mercadería y facilitar la administración del inventario en un establecimiento comercial.
+Este repositorio contiene la documentación de una propuesta para desarrollar un Sistema de Gestión de Inventario y Recepción de Mercadería (SGIM), cuyo propósito es optimizar el control de los productos, mejorar el registro de mercadería y facilitar la administración del inventario en un establecimiento comercial.
 
 
 
