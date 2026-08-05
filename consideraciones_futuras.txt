@@ -1,0 +1,1 @@
+En caso de que la propuesta llegue a desarrollarse como una aplicación informática, sería recomendable incorporar funcionalidades adicionales, como la gestión de usuarios con diferentes niveles de acceso, el registro de auditoría de las operaciones realizadas y la generación de reportes estadísticos que apoyen la toma de decisiones del establecimiento.
